@@ -1,4 +1,5 @@
 ![Axion Logo](axion_banner.png)
+<img src="axion_banner.png" width="200" />
 
 # axion
 The Ultimate Windows Toolkit!
