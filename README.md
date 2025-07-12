@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="axion_banner.png" width="500" />
+  <img src="images/banner.png" width="500" />
 </p>
 
 # axion
