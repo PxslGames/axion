@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="axion_banner.png" width="500" />
-</p>
-
 # axion
 The Ultimate Windows Toolkit!
 
