@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="180" alt="Axion Logo">
+  <img src="images/banner.png" width="180" alt="Axion Logo">
 </p>
 
 <h1 align="center">Axion</h1>
