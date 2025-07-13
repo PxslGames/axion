@@ -40,10 +40,8 @@ Unlike other tools that claim to be for "educational purposes" and then drop ske
 
 - Python 3.7+
 - Windows 10 or later
+- Latest linux version
 
 ### 🔧 Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/PxslGames/axion
-   cd axion
+1. Download latest from 
