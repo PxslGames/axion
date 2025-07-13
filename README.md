@@ -12,7 +12,7 @@
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/PxslGames/axion?style=for-the-badge&color=%23a259ff">
   <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/PxslGames/axion/total?style=for-the-badge&color=%23a259ff">
   <img src="https://img.shields.io/github/license/PxslGames/axion?color=a259ff&style=for-the-badge" alt="License">
-  <img src="https://img.shields.io/github/issues/PxslGames/axion?color=a259ff&style=for-the-badge" alt="Issues">
+  <img alt="GitHub Release" src="https://img.shields.io/github/v/release/PxslGames/axion?include_prereleases&style=for-the-badge&color=%23a259ff">
 </p>
 
 ---
