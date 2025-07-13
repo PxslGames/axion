@@ -3,6 +3,7 @@
 
 <p align="center">
   <i>The ultimate all-in-one Windows toolkit - made for developers, computer people, and power users.</i>
+  <i>Axion has been public from the very beginning</i>
 </p>
 
 <p align="center">
