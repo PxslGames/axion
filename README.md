@@ -1,7 +1,7 @@
 <h1 align="center">Axion</h1>
 
 <p align="center">
-  <i>The ultimate all-in-one Windows toolkit — made for developers, computer people, and power users.</i>
+  <i>The ultimate all-in-one Windows toolkit - made for developers, computer people, and power users.</i>
 </p>
 
 <p align="center">
@@ -16,9 +16,9 @@
 ## 📦 What is Axion?
 
 **Axion** is a fully modular, open-source multitool designed for Windows.  
-It combines a wide range of utilities into one sleek command-line toolkit — from system automation to cybersecurity tools, developer helpers, and more.
+It combines a wide range of utilities into one sleek command-line toolkit - from system automation to cybersecurity tools, developer helpers, and more.
 
-Unlike other tools that claim to be for "educational purposes" and then drop sketchy stuff inside, Axion is built clean from the ground up — no junk, no malware, no BS.
+Unlike other tools that claim to be for "educational purposes" and then drop sketchy stuff inside, Axion is built clean from the ground up - no junk, no malware, no BS.
 
 ---
 
