@@ -1,4 +1,5 @@
 <h1 align="center">Axion</h1>
+<h2 align="center">currently in prerelease, everything below is planned!</h2>
 
 <p align="center">
   <i>The ultimate all-in-one Windows toolkit - made for developers, computer people, and power users.</i>
