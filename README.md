@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="images/banner.png" width="180" alt="Axion Logo">
-</p>
-
 <h1 align="center">Axion</h1>
 
 <p align="center">
